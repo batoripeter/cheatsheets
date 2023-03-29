@@ -2,7 +2,7 @@ git init -
 * akármi
 
 git status -verziókövetés van e
-git commit -m "komment"
+
 git init, ha eddig nem volt .git mappa
 git log - logot kiírja
 checkout hash - töröl egyet
@@ -10,4 +10,8 @@ git fetch behúzza
 git pull a fetch automatikusa
 git push meg feltölt
 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
+git commit -m "komment"
+git remote - van-e repo
 git push --set-upstream origin master
+
+sorrend:
