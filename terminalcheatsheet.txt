@@ -1,0 +1,5 @@
+cd change directory
+cd.. up
+git status
+mkdir mappa létrehozása
+* akármi

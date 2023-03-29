@@ -1,0 +1,11 @@
+git init - 
+* akármi
+
+git status
+git commit -m "komment"
+git init, ha eddig nem volt .git mappa
+git log - logot kiírja
+checkout hash - töröl egyet
+git fetch behúzza
+git pull a fetch automatikusa
+git push meg feltölt
